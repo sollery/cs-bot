@@ -101,4 +101,58 @@ MAPS = {
             }
         }
     },
+    "ancient": {
+        "name": "🕌 ancient",
+        "sides": {
+            "t": {
+                "smoke": {
+                    "Смок на Мид (от Т)": "https://www.youtube.com/watch?v=ПРИМЕР_14",
+                },
+                "flash": {
+                    "Флешка на A site": "https://www.youtube.com/watch?v=ПРИМЕР_17",
+                },
+                "molotov": {
+                    "Молотов на центр": "https://www.youtube.com/watch?v=ПРИМЕР_19",
+                }
+            },
+            "ct": {
+                "smoke": {
+                    "Смок на A Ramp": "https://www.youtube.com/watch?v=ПРИМЕР_21",
+                },
+                "flash": {
+                    "Флешка на Palace": "https://www.youtube.com/watch?v=ПРИМЕР_23",
+                },
+                "molotov": {
+                    "Молотов на A site": "https://www.youtube.com/watch?v=ПРИМЕР_25",
+                }
+            }
+        }
+    },
+    "cache": {
+        "name": "🕌 cache",
+        "sides": {
+            "t": {
+                "smoke": {
+                    "Смок на Мид (от Т)": "https://www.youtube.com/watch?v=ПРИМЕР_14",
+                },
+                "flash": {
+                    "Флешка на A site": "https://www.youtube.com/watch?v=ПРИМЕР_17",
+                },
+                "molotov": {
+                    "Молотов на центр": "https://www.youtube.com/watch?v=ПРИМЕР_19",
+                }
+            },
+            "ct": {
+                "smoke": {
+                    "Смок на A Ramp": "https://www.youtube.com/watch?v=ПРИМЕР_21",
+                },
+                "flash": {
+                    "Флешка на Palace": "https://www.youtube.com/watch?v=ПРИМЕР_23",
+                },
+                "molotov": {
+                    "Молотов на A site": "https://www.youtube.com/watch?v=ПРИМЕР_25",
+                }
+            }
+        }
+    },
 }
