@@ -52,7 +52,7 @@ MAPS = {
         "sides": {
             "t": {
                 "smoke": {
-                    "Смок на Мид (от Т)": "https://www.youtube.com/watch?v=ПРИМЕР_14",
+                    "Смок на Мид (от Т)": "https://www.youtube.com/watch?v=ывапы",
                 },
                 "flash": {
                     "Флешка на A site": "https://www.youtube.com/watch?v=ПРИМЕР_17",
